@@ -30,7 +30,7 @@ We will be cloning an existing piece of UI from a popular app, Twitter. Let's ge
 
   ```bash
   git add .
-  git commit -m "done"
+  git commit -m "done" 
   git push origin main
   ```
 
